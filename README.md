@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyrus-Hackman
-- 👀 I’m interested in ... programming, webssite development and software dev
+- 👀 I’m interested in ... programming, website development and software dev
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... any available project
 - 📫 How to reach me ... cyrushack11@gmail.com
